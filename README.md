@@ -31,9 +31,6 @@ cd WatchLater+
 - The extension will automatically save the **video link with the current timestamp**.  
 - Click on the extension anytime to access and revisit your saved timestamps.
 
-## 🤝 Contributing  
-Feel free to fork this repo and submit pull requests!
-
 ## 📜 License  
 This project is licensed under the MIT License.
 
