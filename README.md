@@ -16,14 +16,14 @@ A Chrome extension that allows users to save specific timestamps of YouTube vide
 
 ### 1️⃣ Clone the Repository  
 ```bash  
-git clone https://github.com/your-username/WatchLater+.git  
-cd WatchLater+  
+git clone https://github.com/your-username/WatchLaterPlus.git  
+cd WatchLaterPlus
 ```
 
 ### 2️⃣ Load the Extension in Chrome  
 1. Open **Chrome** and go to `chrome://extensions/`.  
 2. Enable **Developer mode** (toggle in the top right corner).  
-3. Click **Load unpacked** and select the `WatchLater+` project folder.  
+3. Click **Load unpacked** and select the `WatchLaterPlus` project folder.  
 4. The extension will be added to your browser!
 
 ### 3️⃣ How to Use  
